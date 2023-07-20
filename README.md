@@ -1,5 +1,5 @@
- <h1 style="text-align: center; font-family: fantasy">Hi there 👋, My name is Seyed</h1>
- <h2 style="text-align: center; font-family: 'Segoe UI Emoji',sans-serif" > Computer science student at Shahid Beheshti University! Eager to experience new things</h2>
+ <h1  align="center">Hi there 👋, My name is Seyed</h1>
+ <h2 align="center" > Computer science student at Shahid Beheshti University! Eager to experience new things</h2>
 
 ![Computer science student at Shahid Beheshti University! Eager to experience new things](Logo.seyed.jpg)
 <div class="container">
@@ -17,7 +17,7 @@ You can see my full profile on this [*site*]()
 - ⚡ Fun fact: This is not a place for fun😏
 </div>
 
-<div class="container">
+<div align="center" class="container">
 
 ![Profile views](https://komarev.com/ghpvc/?username=seyed0123&style=for-the-badge&color=orange)
 [![seyed StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/13769953)](https://stackoverflow.com/users/13769953/seyed)
@@ -26,7 +26,7 @@ You can see my full profile on this [*site*]()
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-<section class="container">
+<section class="container" align="center">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=seyed0123&column=3&margin-w=15&margin-h=15&theme=gitdimmed)
 ![GitHub metrics](https://metrics.lecoq.io/seyed0123)
@@ -42,11 +42,4 @@ You can see my full profile on this [*site*]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed0123&langs_count=100&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=pie)
 </section>
 
-**It doesn't matter your skill level on this site or anywhere else. The important thing is to be the first person somewhere else.**
-<style>
-.container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-</style>
+**It doesn't matter your skill level on sites or anywhere else like this. The important thing is to be the first person somewhere else.**
