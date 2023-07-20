@@ -39,9 +39,10 @@ You can see my full profile on this [*site*]()
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seyed0123&repo=MelODyHub&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/MelODyHub)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed0123&langs_count=20&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed0123&langs_count=100&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=pie)
 </section>
 
+**It doesn't matter your skill level on this site or anywhere else. The important thing is to be the first person somewhere else.**
 <style>
 .container {
   display: flex;
