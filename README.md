@@ -40,6 +40,7 @@ You can see my full profile on this [*site*]()
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed0123&langs_count=100&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=pie)
+<img src="https://github-contributor-stats.vercel.app/api?username=seyed0123&limit=7&theme=merko&combine_all_yearly_contributions=true" alt="seyed" />
 </section>
 
 **It doesn't matter your skill level on sites or anywhere else like this. The important thing is to be the first person somewhere else.**
