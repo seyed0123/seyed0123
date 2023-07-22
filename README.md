@@ -32,7 +32,7 @@ You can see my full profile on this [*site*]()
 
 <section class="container" align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=seyed0123&column=3&margin-w=15&margin-h=15&theme=gitdimmed)
+![trophy's](https://github-profile-trophy.vercel.app/?username=seyed0123&column=3&margin-w=15&margin-h=15&theme=gitdimmed)
 ![GitHub metrics](https://metrics.lecoq.io/seyed0123)
 
 
