@@ -41,6 +41,8 @@ You can see my full profile on this [*site*]()
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seyed0123&repo=OXDman&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/OXDman)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seyed0123&repo=OXDCommod&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/OXDCommod)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seyed0123&repo=MelODyHub&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/MelODyHub)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seyed0123&repo=OXDgram&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/OXDgram)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seyed0123&repo=OXDebate&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/OXDebate)
 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seyed0123&langs_count=100&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=pie)
