@@ -1,7 +1,10 @@
  <h1  align="center">Hi there 👋, My name is Seyed</h1>
  <h2 align="center" > Computer science student at Shahid Beheshti University! Eager to experience new things</h2>
+<div align="center">
+<img src="Logo.seyed.jpg" width='50%'>
 
-![Computer science student at Shahid Beheshti University! Eager to experience new things](Logo.seyed.jpg)
+</div>
+
 <div class="container">
 
 You can see my full profile on this [*site*](https://seyed0123.github.io/)
