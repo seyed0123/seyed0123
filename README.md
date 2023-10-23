@@ -4,7 +4,7 @@
 ![Computer science student at Shahid Beheshti University! Eager to experience new things](Logo.seyed.jpg)
 <div class="container">
 
-You can see my full profile on this [*site*]()
+You can see my full profile on this [*site*](https://seyed0123.github.io/)
 ***No pain 🤕 , No gain💪🏻 👑***
 </div>
 
