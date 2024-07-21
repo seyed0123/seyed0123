@@ -1,4 +1,4 @@
- <h1  align="center">Hi there 👋, My name is Seyed</h1>
+ <h1  align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2783F7&width=435&lines=Hi+there+%F0%9F%91%8B%2C+My+name+is+Seyed" alt="Typing SVG" /></a></h1>
  <h2 align="center" > Computer science student at Shahid Beheshti University! Eager to experience new things</h2>
 <div align="center">
 <img src="Logo.seyed.jpg" width='50%'>
@@ -46,6 +46,7 @@ You can see my full profile on this [*site*](https://seyed0123.github.io/)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seyed0123&repo=MelODyHub&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/MelODyHub)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seyed0123&repo=OXDgram&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/OXDgram)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seyed0123&repo=OXDebate&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/OXDebate)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seyed0123&repo=word-wolf&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/word-wolf)
 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seyed0123&langs_count=100&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=pie)
@@ -56,4 +57,4 @@ You can see my full profile on this [*site*](https://seyed0123.github.io/)
 </section>
 -->
 
-**It doesn't matter your skill level on sites or anywhere else like this. The important thing is to be the first person somewhere else.**
+**It doesn't matter what your skill level is on sites or anywhere else like this. The important thing is to be the first person somewhere else.**
