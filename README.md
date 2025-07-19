@@ -36,20 +36,21 @@ You can see my full profile on this [*site*](https://seyed0123.github.io/)
 <section class="container" align="center">
 
 ![trophy's](https://github-profile-trophy.vercel.app/?username=seyed0123&column=3&margin-w=15&margin-h=15&theme=gitdimmed)
-![GitHub metrics](https://metrics.lecoq.io/seyed0123)
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=seyed0123&show_icons=true&theme=merko&show_owner=true)
-![seyed's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=seyed0123&show_icons=true&theme=merko&show_owner=true&rank_icon=percentile&include_all_commits=true)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seyed0123&repo=OXDman&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/OXDman)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seyed0123&repo=OXDCommod&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/OXDCommod)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seyed0123&repo=MelODyHub&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/MelODyHub)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seyed0123&repo=OXDgram&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/OXDgram)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seyed0123&repo=OXDebate&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/OXDebate)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=seyed0123&repo=word-wolf&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/word-wolf)
+![seyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyed0123&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=merko)
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seyed0123&langs_count=100&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=pie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seyed0123&repo=OXDman&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/OXDman)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seyed0123&repo=OXDCommod&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/OXDCommod)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seyed0123&repo=MelODyHub&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/MelODyHub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seyed0123&repo=OXDgram&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/OXDgram)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seyed0123&repo=OXDebate&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/OXDebate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seyed0123&repo=word-wolf&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/word-wolf)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed0123&layout=pie&theme=merko&hide=php&langs_count=20)
 <img src="https://github-contributor-stats.vercel.app/api?username=seyed0123&limit=7&theme=merko&combine_all_yearly_contributions=true" alt="seyed" />
 
 <!--
