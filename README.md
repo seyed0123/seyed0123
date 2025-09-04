@@ -50,7 +50,8 @@ You can see my full profile on this [*site*](https://seyed0123.github.io/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seyed0123&repo=word-wolf&show_owner=true&show_icons=true&theme=merko)](https://github.com/seyed0123/word-wolf)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed0123&layout=pie&theme=merko&hide=php,css&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyed0123&layout=pie&size_weight=0.5&count_weight=0.5&theme=merko&hide=jupyter%20notebook,php,css)
+
 <img src="https://github-contributor-stats.vercel.app/api?username=seyed0123&limit=7&theme=merko&combine_all_yearly_contributions=true" alt="seyed" />
 
 <!--
